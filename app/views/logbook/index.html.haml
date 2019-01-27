@@ -1,8 +1,9 @@
 %h2 Truck Pilot Logbook
 
 %p
-  The time is now: #{Time.now}
+  Hi, Emily. The time is now: #{Time.now}
 
-
+%p
+  According to Google Maps the duration time between #{@matrix[:destination_addresses][0]} and #{@matrix[:origin_addresses][0]} is #{@matrix[:rows][0][:elements][0][:duration][:text]}.
 
 
