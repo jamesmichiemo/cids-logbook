@@ -1,24 +1,14 @@
-# README
+# Cid's Logbook
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Description
 
-Things you may want to cover:
+A datalog for measuring routes
 
-* Ruby version
+## Future Features
 
-* System dependencies
+- Route time duration
+- Speed Recommendation
+- Time tracking 
 
-* Configuration
 
-* Database creation
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
