@@ -1,0 +1,2 @@
+class LogbookController < ApplicationController
+end
